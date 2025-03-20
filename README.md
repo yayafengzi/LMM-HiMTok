@@ -7,7 +7,8 @@
 </div>
 
 ## News
-- [2025.3.17] We released the fine-tuned checkpoint (InternVL $\times$ HiMTok), available [here](https://huggingface.co/yayafengzi/InternVL2_5-HiMTok-8B). For more details, please refer to the [paper](https://arxiv.org/abs/2503.13026).
+- [2025.3.20] We released the fine-tuned checkpoint (InternVL $\times$ HiMTok), available [here](https://huggingface.co/yayafengzi/InternVL2_5-HiMTok-8B). 
+- [2025.3.17] We released the [paper](https://arxiv.org/abs/2503.13026).
 
 ## Abstract
 The remarkable performance of large multimodal models (LMMs) has attracted significant interest from the image segmentation community.
