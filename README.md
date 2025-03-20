@@ -66,7 +66,7 @@ This project is built with reference to [InternVL](https://github.com/OpenGVLab/
 
 ## License
 ```
-Copyright 2023-present Alibaba Group.
+Copyright 2025-UniUbi.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
