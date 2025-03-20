@@ -1,0 +1,14 @@
+model:
+  vq_model:
+    codebook_size: 1024
+    token_size: 12
+    use_l2_norm: true
+    commitment_cost: 0.01
+    vit_enc_model_size: large
+    vit_dec_model_size: large
+    vit_enc_patch_size: 16
+    vit_dec_patch_size: 16
+    num_latent_tokens: 32
+dataset:
+  preprocessing:
+    crop_size: 256

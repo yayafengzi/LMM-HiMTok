@@ -1,0 +1,10 @@
+{
+    "test": {
+      "root": "example",
+      "annotation": "example/anns/seg_data_with_mask.jsonl",
+      "data_augment": false,
+      "repeat_time": 100,
+      "length": 4
+    }
+  }
+  
