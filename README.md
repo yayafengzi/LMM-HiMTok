@@ -38,9 +38,9 @@ Important keys contained in JSONL files:
 - "conversations": Conversations between human and gpt. The mask placeholder is <|mt_start|><|mt_0|>...<|mt_end|>.
 ```
 
-For second stage training, run `bash scripts/train_himtok_stage2_internvl.sh` to train InternVL with HiMTok.
+For second stage training, run `bash scripts/train/train_himtok_stage2_internvl.sh` to train InternVL with HiMTok.
 
-For third stage training, run `bash scripts/train_himtok_stage3_internvl.sh` to train InternVL with mask tokens.
+For third stage training, run `bash scripts/train/train_himtok_stage3_internvl.sh` to train InternVL with mask tokens.
 
 You can also convert the mask placeholder to mask tokens by [convert_mask2tokens.py](convert_mask2tokens.py) before training.
 
