@@ -7,6 +7,7 @@
 </div>
 
 ## News
+- [2025.7.17] You may also be interested in our other work: [ALTo](https://github.com/yayafengzi/ALToLLM). 
 - [2025.6.26] Our HiMTok has been accepted by ICCV 2025!
 - [2025.3.20] We released the fine-tuned checkpoint (InternVL $\times$ HiMTok), available [here](https://huggingface.co/yayafengzi/InternVL2_5-HiMTok-8B). 
 - [2025.3.17] We released the [paper](https://arxiv.org/abs/2503.13026).
